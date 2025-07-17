@@ -1,9 +1,4 @@
-'''Today's topics:
-- Writing and calling functions (def, return, parameters)
-- List basics (append, remove, indexing, slicing)
-- Looping through lists (for item in list:)
-- Nested if conditions
-'''
+
 #writing a function
 def myfunc():
     pass    #function body
@@ -159,3 +154,4 @@ while i<len(fruits):
 
 quantity=[2,4,5,6,7]
 [print(x) for x in quantity]
+
